@@ -1,5 +1,5 @@
 # Capitals
-Data and parser of countries capitals for [Leonard Bot](https://github.com/leonardbot/leonard)
+Data and parser of countries and capitals for [Leonard Bot](https://github.com/leonardbot/leonard)
 
 ## Sources
 * Capitals in English are parsing from https://en.wikipedia.org/wiki/List_of_national_capitals_in_alphabetical_order
